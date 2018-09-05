@@ -6,5 +6,5 @@
 ## framework
 Java EE + JFinal
 
-# start up
+## start up
 运行 BBSApplicationStartUp.main() 即可
