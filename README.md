@@ -4,7 +4,10 @@
 华农官方BBS
 
 ## framework
-Java EE + JFinal
+JFinal
 
 ## start up
-运行 BBSApplicationStartUp.main() 即可
+运行 HzauApplicationStartUp.main() 即可
+
+## develop plan
+预计2019年初正式启动开发计划
