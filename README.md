@@ -1,13 +1,17 @@
-# 华农BBS
+# 华农狮山BBS快速开发
 
-## introduction
-华农官方BBS
+## 介绍
+[华农狮山BBS后端](https://github.com/52FeidianStudio/hzau-bbs-backend)
 
-## framework
+[华农狮山BBS快速开发](https://github.com/52FeidianStudio/hzau-bbs)
+
+[华农狮山BBS前端](https://github.com/52FeidianStudio/hzau-bbs-frontend)
+
+## 框架
 JFinal
 
-## start up
-运行 HzauApplicationStartUp.main() 即可
+## 启动
+运行 HzauApplicationStartUp.main() 
 
-## develop plan
-预计2019年初正式启动开发计划
+## 计划
+预备2019年初正式启动开发计划
